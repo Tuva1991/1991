@@ -1194,10 +1194,11 @@ function selection2()
             next == false
             stage = "8N"
         }
-        if (stage === "7J" && next == true) //降伏  look!!
+        if (stage === "7J" && next == true) //降伏  ok
         {
             next == false
             stage = "End"
+	    ending = 5
         }
     }
         {//8
