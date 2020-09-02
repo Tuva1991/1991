@@ -957,7 +957,7 @@ function selection1()
             stage = "End"
             ending = 6
         }
-        if (stage === "10E" && next == true || stage === "10O" && next == true || stage === "10Q" && next == truestage === "10S" && next == true || stage === "10T" && next == true || stage === "10V" && next == true || stage === "10X" && next == true || stage === "10Y" && next == true)
+        if (stage === "10E" && next == true || stage === "10O" && next == true || stage === "10Q" && next == true || stage === "10S" && next == true || stage === "10T" && next == true || stage === "10V" && next == true || stage === "10X" && next == true || stage === "10Y" && next == true)
         {
             next = false
             stage = "End"
@@ -1448,7 +1448,7 @@ function selection2()
             stage = "End"
             ending = 6
         }
-        if (stage === "10E" && next == true || stage === "10O" && next == true || stage === "10Q" && next == truestage === "10S" && next == true || stage === "10T" && next == true || stage === "10V" && next == true || stage === "10X" && next == true || stage === "10Y" && next == true)
+        if (stage === "10E" && next == true || stage === "10O" && next == true || stage === "10Q" && next == true || stage === "10S" && next == true || stage === "10T" && next == true || stage === "10V" && next == true || stage === "10X" && next == true || stage === "10Y" && next == true)
         {
             next = false
             stage = "End"
